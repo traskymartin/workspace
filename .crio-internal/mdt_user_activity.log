@@ -1,0 +1,1047 @@
+2023-03-07 20:19:03: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:19:20: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:25:47: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:29:08: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:32:02: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:34:52: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:36:00: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:40:13: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:40:19: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:40:38: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:44:28: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:47:16: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:49:15: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 20:51:23: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 22:08:43: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 22:08:52: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 22:09:08: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 22:09:19: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 22:09:43: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 22:10:34: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 22:10:53: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 22:13:43: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 22:14:24: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-07 22:15:54: git remote executed
+2023-03-07 22:15:54: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:16:32: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:16:42: git status executed
+2023-03-07 22:16:42: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:25:59: git status executed
+2023-03-07 22:25:59: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:29:24: merge conflict not detected during add
+2023-03-07 22:29:24: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:30:44: git status executed
+2023-03-07 22:30:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:32:22: merge conflict not detected during add
+2023-03-07 22:32:22: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:32:29: merge conflict not detected during add
+2023-03-07 22:32:30: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:33:17: git status executed
+2023-03-07 22:33:17: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:34:12: merge conflict not detected during commit
+2023-03-07 22:34:12: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:35:05: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:35:29: merge conflict not detected during add
+2023-03-07 22:35:29: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:35:35: merge conflict not detected during add
+2023-03-07 22:35:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:35:45: merge conflict not detected during commit
+2023-03-07 22:35:45: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:35:58: git status executed
+2023-03-07 22:35:58: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:36:06: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:37:25: git push executed
+2023-03-07 22:37:28: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:48:20: merge conflict not detected during pull
+2023-03-07 22:48:20: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:51:50: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:54:55: git status executed
+2023-03-07 22:54:55: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:55:05: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:55:27: git status executed
+2023-03-07 22:55:28: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:56:04: merge conflict not detected during commit
+2023-03-07 22:56:04: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:56:29: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:57:23: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:57:32: merge conflict not detected during commit
+2023-03-07 22:57:32: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:58:36: merge conflict not detected during commit
+2023-03-07 22:58:36: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:58:57: merge conflict not detected during commit
+2023-03-07 22:58:58: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:59:08: merge conflict not detected during commit
+2023-03-07 22:59:08: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 22:59:45: merge conflict not detected during commit
+2023-03-07 22:59:45: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:00:00: merge conflict not detected during commit
+2023-03-07 23:00:00: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:00:57: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:01:27: merge conflict not detected during commit
+2023-03-07 23:01:27: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:01:35: merge conflict not detected during commit
+2023-03-07 23:01:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:01:53: merge conflict not detected during add
+2023-03-07 23:01:53: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:01:57: merge conflict not detected during add
+2023-03-07 23:01:57: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:02:17: git status executed
+2023-03-07 23:02:17: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:02:33: merge conflict not detected during commit
+2023-03-07 23:02:33: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:02:39: merge conflict not detected during commit
+2023-03-07 23:02:39: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:03:02: merge conflict not detected during commit
+2023-03-07 23:03:02: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:03:14: merge conflict not detected during commit
+2023-03-07 23:03:14: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:03:27: merge conflict not detected during commit
+2023-03-07 23:03:28: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:03:46: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:04:27: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:04:27: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:04:53: git push executed
+2023-03-07 23:04:57: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:06:34: merge conflict not detected during pull
+2023-03-07 23:06:34: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:06:47: git push executed
+2023-03-07 23:06:50: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:07:40: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:08:53: merge conflict not detected during pull
+2023-03-07 23:08:53: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:09:32: merge conflict not detected during pull
+2023-03-07 23:09:32: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:17:40: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:17:51: merge conflict not detected during pull
+2023-03-07 23:17:51: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:17:57: merge conflict not detected during pull
+2023-03-07 23:17:57: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:19:55: merge conflict not detected during pull
+2023-03-07 23:19:55: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:20:14: merge conflict not detected during pull
+2023-03-07 23:20:14: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:21:00: merge conflict not detected during pull
+2023-03-07 23:21:00: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:21:04: merge conflict not detected during pull
+2023-03-07 23:21:04: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:25:12: git push executed
+2023-03-07 23:25:14: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:25:31: merge conflict not detected during pull
+2023-03-07 23:25:31: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:25:42: merge conflict not detected during pull
+2023-03-07 23:25:42: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:25:46: merge conflict not detected during pull
+2023-03-07 23:25:46: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:25:51: merge conflict not detected during pull
+2023-03-07 23:25:51: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:25:58: merge conflict not detected during pull
+2023-03-07 23:25:58: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:29:51: merge conflict not detected during pull
+2023-03-07 23:29:51: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:30:05: merge conflict not detected during pull
+2023-03-07 23:30:05: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:30:09: merge conflict not detected during pull
+2023-03-07 23:30:09: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:34:45: git push executed
+2023-03-07 23:34:48: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:34:59: merge conflict not detected during pull
+2023-03-07 23:34:59: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:35:18: merge conflict not detected during pull
+2023-03-07 23:35:18: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:35:32: merge conflict not detected during pull
+2023-03-07 23:35:32: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:36:13: git push executed
+2023-03-07 23:36:16: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:36:30: merge conflict not detected during pull
+2023-03-07 23:36:30: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:36:34: merge conflict not detected during pull
+2023-03-07 23:36:34: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:38:44: merge conflict not detected during pull
+2023-03-07 23:38:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:38:49: merge conflict not detected during pull
+2023-03-07 23:38:49: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:40:54: git push executed
+2023-03-07 23:40:57: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:41:04: merge conflict not detected during pull
+2023-03-07 23:41:04: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:43:04: git push executed
+2023-03-07 23:43:06: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:43:11: merge conflict not detected during pull
+2023-03-07 23:43:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:46:38: merge conflict not detected during pull
+2023-03-07 23:46:39: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:46:42: merge conflict not detected during pull
+2023-03-07 23:46:42: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:46:48: merge conflict not detected during pull
+2023-03-07 23:46:48: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:47:07: git push executed
+2023-03-07 23:47:10: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:47:15: git push executed
+2023-03-07 23:47:18: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:47:25: merge conflict not detected during pull
+2023-03-07 23:47:25: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:47:32: merge conflict not detected during pull
+2023-03-07 23:47:32: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:53:20: git push executed
+2023-03-07 23:53:23: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:53:32: merge conflict not detected during pull
+2023-03-07 23:53:32: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:53:41: merge conflict not detected during pull
+2023-03-07 23:53:41: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-07 23:54:26: merge conflict not detected during pull
+2023-03-07 23:54:26: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-08 11:47:34: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-08 11:48:03: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-08 11:49:10: git status executed
+2023-03-08 11:49:10: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-08 11:52:51: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-08 11:53:22: git push executed
+2023-03-08 11:54:42: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-08 11:55:13: git push executed
+2023-03-08 11:55:20: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-08 11:57:21: merge conflict not detected during pull
+2023-03-08 11:57:21: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-08 11:58:09: merge conflict not detected during pull
+2023-03-08 11:58:09: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-08 11:59:08: git push executed
+2023-03-08 11:59:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-08 11:59:27: merge conflict not detected during pull
+2023-03-08 11:59:27: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_GIT_BASICS', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_GIT_BASICS_ENROLL_1674642137559', 'remote': 'git@gitlab.crio.do:COHORT_ME_GIT_BASICS_ENROLL_1674642137559/amalatrasky15-ME_GIT_BASICS.git'}
+2023-03-10 14:30:53: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-10 14:31:18: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'git@gitlab.crio.do:crio_bytes/me_encapsulation_java.git'}
+2023-03-10 14:31:30: git status executed
+2023-03-10 14:31:30: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'git@gitlab.crio.do:crio_bytes/me_encapsulation_java.git'}
+2023-03-10 14:58:30: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'git@gitlab.crio.do:crio_bytes/me_encapsulation_java.git'}
+2023-03-10 15:11:47: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'git@gitlab.crio.do:crio_bytes/me_encapsulation_java.git'}
+2023-03-11 10:47:07: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-11 10:47:37: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'git@gitlab.crio.do:crio_bytes/me_inheritance_java.git'}
+2023-03-11 10:47:50: git status executed
+2023-03-11 10:47:50: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'git@gitlab.crio.do:crio_bytes/me_inheritance_java.git'}
+2023-03-11 10:58:05: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'git@gitlab.crio.do:crio_bytes/me_inheritance_java.git'}
+2023-03-11 11:00:47: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'git@gitlab.crio.do:crio_bytes/me_inheritance_java.git'}
+2023-03-14 10:27:17: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-14 10:27:19: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-16 10:38:38: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-16 10:39:07: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'git@gitlab.crio.do:crio_bytes/me_polymorphism_java.git'}
+2023-03-16 10:39:16: git status executed
+2023-03-16 10:39:16: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'git@gitlab.crio.do:crio_bytes/me_polymorphism_java.git'}
+2023-03-21 10:27:05: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-21 10:27:21: git remote executed
+2023-03-21 10:27:21: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 10:27:36: merge conflict not detected during add
+2023-03-21 10:27:37: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 10:27:46: merge conflict not detected during commit
+2023-03-21 10:27:46: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 10:30:29: git remote executed
+2023-03-21 10:30:29: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 10:30:46: merge conflict during pull
+2023-03-21 10:31:03: user knows what is merge conflict: true
+2023-03-21 10:31:03: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_IMPLEMENTATION', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:12:28: merge conflict not detected during add
+2023-03-21 11:12:29: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_IMPLEMENTATION', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:12:37: merge conflict not detected during commit
+2023-03-21 11:12:38: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_IMPLEMENTATION', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:12:50: git push executed
+2023-03-21 11:12:54: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_IMPLEMENTATION', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:13:02: git status executed
+2023-03-21 11:13:02: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_IMPLEMENTATION', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:20:39: git remote executed
+2023-03-21 11:20:39: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_IMPLEMENTATION', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:20:53: merge conflict during pull
+2023-03-21 11:21:04: user knows what is merge conflict: true
+2023-03-21 11:21:04: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:53:38: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:53:52: merge conflict during commit
+2023-03-21 11:54:00: user knows what is merge conflict: true
+2023-03-21 11:54:00: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:54:02: git push executed
+2023-03-21 11:54:05: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:54:24: git status executed
+2023-03-21 11:54:25: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:55:36: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:55:52: merge conflict during add
+2023-03-21 11:56:02: user knows what is merge conflict: true
+2023-03-21 11:56:03: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:56:16: merge conflict during commit
+2023-03-21 11:56:18: user knows what is merge conflict: true
+2023-03-21 11:56:18: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:56:26: git push executed
+2023-03-21 11:56:29: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 11:56:47: git status executed
+2023-03-21 11:56:47: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 12:01:19: git remote executed
+2023-03-21 12:01:19: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 12:01:50: merge conflict not detected during pull
+2023-03-21 12:01:50: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 12:04:13: git remote executed
+2023-03-21 12:04:13: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 12:04:25: merge conflict not detected during pull
+2023-03-21 12:04:25: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 12:10:02: merge conflict not detected during add
+2023-03-21 12:10:02: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_OOP', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 12:10:12: merge conflict not detected during commit
+2023-03-21 12:10:13: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_OOP', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 12:10:24: git push executed
+2023-03-21 12:10:32: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_OOP', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-21 12:10:39: git status executed
+2023-03-21 12:10:39: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_OOP', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-23 10:03:30: git remote executed
+2023-03-23 10:03:30: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_OOP', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-23 10:03:51: merge conflict during pull
+2023-03-23 10:03:54: user knows what is merge conflict: true
+2023-03-23 10:03:55: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-23 10:16:13: merge conflict during add
+2023-03-23 10:16:23: user knows what is merge conflict: true
+2023-03-23 10:16:23: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-23 10:16:29: merge conflict during commit
+2023-03-23 10:16:38: user knows what is merge conflict: true
+2023-03-23 10:16:38: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-23 10:16:46: git push executed
+2023-03-23 10:16:49: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-23 10:17:00: git status executed
+2023-03-23 10:17:01: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-23 10:18:03: merge conflict not detected during add
+2023-03-23 10:18:03: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_TESTSANDERRORS', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-23 10:18:27: merge conflict not detected during commit
+2023-03-23 10:18:28: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_TESTSANDERRORS', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-23 10:18:34: git push executed
+2023-03-23 10:18:40: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_TESTSANDERRORS', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-23 10:18:44: git status executed
+2023-03-23 10:18:45: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_TESTSANDERRORS', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 10:56:22: git remote executed
+2023-03-25 10:56:22: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_TESTSANDERRORS', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 10:56:41: merge conflict during pull
+2023-03-25 11:03:15: user knows what is merge conflict: true
+2023-03-25 11:03:15: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:06:25: git remote executed
+2023-03-25 11:06:25: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:06:54: git remote executed
+2023-03-25 11:06:54: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:41:44: merge conflict not detected during add
+2023-03-25 11:41:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:41:57: merge conflict not detected during commit
+2023-03-25 11:41:58: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:42:06: git push executed
+2023-03-25 11:42:13: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:42:26: git status executed
+2023-03-25 11:42:26: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:45:50: merge conflict not detected during add
+2023-03-25 11:45:50: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:45:56: merge conflict not detected during commit
+2023-03-25 11:45:56: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:46:08: git push executed
+2023-03-25 11:46:12: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:46:20: git status executed
+2023-03-25 11:46:20: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:47:44: git remote executed
+2023-03-25 11:47:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_INHERITANCE', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-25 11:47:58: merge conflict during pull
+2023-03-25 11:48:00: user knows what is merge conflict: true
+2023-03-25 11:48:00: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 11:47:48: git remote executed
+2023-03-26 11:47:48: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 11:48:01: merge conflict not detected during pull
+2023-03-26 11:48:01: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 11:56:53: merge conflict during add
+2023-03-26 11:57:01: user knows what is merge conflict: true
+2023-03-26 11:57:01: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 11:57:12: merge conflict during commit
+2023-03-26 11:57:29: user knows what is merge conflict: true
+2023-03-26 11:57:29: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 11:57:51: merge conflict during add
+2023-03-26 11:58:29: merge conflict during add
+2023-03-26 11:58:31: user knows what is merge conflict: true
+2023-03-26 11:58:31: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 11:58:42: merge conflict during commit
+2023-03-26 11:58:45: user knows what is merge conflict: true
+2023-03-26 11:58:45: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 11:58:58: git push executed
+2023-03-26 11:59:05: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:00:25: merge conflict during add
+2023-03-26 12:00:27: user knows what is merge conflict: true
+2023-03-26 12:00:27: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:00:35: merge conflict during add
+2023-03-26 12:00:40: user knows what is merge conflict: true
+2023-03-26 12:00:40: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:00:42: merge conflict during add
+2023-03-26 12:00:44: user knows what is merge conflict: true
+2023-03-26 12:00:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:06:29: merge conflict during add
+2023-03-26 12:06:31: user knows what is merge conflict: true
+2023-03-26 12:06:31: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:08:19: merge conflict not detected during add
+2023-03-26 12:08:19: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:08:29: merge conflict not detected during commit
+2023-03-26 12:08:29: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:08:39: git push executed
+2023-03-26 12:08:45: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:09:04: git status executed
+2023-03-26 12:09:05: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:09:19: git status executed
+2023-03-26 12:09:19: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:10:24: merge conflict not detected during add
+2023-03-26 12:10:24: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:10:30: merge conflict not detected during commit
+2023-03-26 12:10:30: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:10:39: git push executed
+2023-03-26 12:10:43: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:10:46: git status executed
+2023-03-26 12:10:47: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:55:37: merge conflict not detected during add
+2023-03-26 12:55:37: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:55:41: merge conflict not detected during commit
+2023-03-26 12:55:42: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:55:46: git push executed
+2023-03-26 12:55:50: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:55:54: git status executed
+2023-03-26 12:55:54: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QCALC_V2', 'module_id': 'ME_QCALC_V2_MODULE_DEBUGGING', 'cohort_id': 'COHORT_ME_QCALC_V2_ENROLL_1646211412436', 'remote': 'git@gitlab.crio.do:COHORT_ME_QCALC_V2_ENROLL_1646211412436/amalatrasky15-ME_QCALC_V2.git'}
+2023-03-26 12:59:58: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-26 13:00:25: git remote executed
+2023-03-26 13:00:25: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-26 13:00:38: merge conflict not detected during pull
+2023-03-26 13:00:38: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-26 15:16:09: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-26 15:16:18: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-28 10:43:33: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-28 10:43:50: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-03-28 10:44:10: git remote executed
+2023-03-28 10:44:10: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 10:44:25: merge conflict not detected during pull
+2023-03-28 10:44:26: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 20:52:22: merge conflict not detected during add
+2023-03-28 20:52:23: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 20:52:41: merge conflict not detected during commit
+2023-03-28 20:52:42: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 20:52:54: merge conflict not detected during commit
+2023-03-28 20:52:54: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 20:53:01: git status executed
+2023-03-28 20:53:02: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 20:54:18: merge conflict not detected during commit
+2023-03-28 20:54:18: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 20:54:31: merge conflict not detected during commit
+2023-03-28 20:54:32: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 20:54:53: git status executed
+2023-03-28 20:54:53: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 20:55:43: merge conflict not detected during add
+2023-03-28 20:55:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 20:56:03: merge conflict not detected during commit
+2023-03-28 20:56:03: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 20:56:13: git push executed
+2023-03-28 20:56:19: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-03-28 20:56:27: git status executed
+2023-03-28 20:56:27: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_BUILDOUT_XURL', 'module_id': 'ME_BUILDOUT_XURL_MODULE_XURL', 'cohort_id': 'COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541', 'remote': 'git@gitlab.crio.do:COHORT_ME_BUILDOUT_XURL_ENROLL_1640183571541/amalatrasky15-ME_BUILDOUT_XURL.git'}
+2023-04-05 10:04:50: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-05 10:04:59: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-05 16:19:07: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-05 16:19:10: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-05 16:19:48: git remote executed
+2023-04-05 16:19:48: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-05 16:20:09: merge conflict not detected during pull
+2023-04-05 16:20:09: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-05 19:57:11: merge conflict not detected during add
+2023-04-05 19:57:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-05 19:58:34: merge conflict not detected during commit
+2023-04-05 19:58:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-05 19:59:24: git push executed
+2023-04-05 19:59:31: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-05 19:59:38: git status executed
+2023-04-05 19:59:38: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-06 12:39:45: merge conflict not detected during add
+2023-04-06 12:39:45: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-06 12:40:36: merge conflict not detected during commit
+2023-04-06 12:40:37: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-06 12:41:07: git push executed
+2023-04-06 12:41:13: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-06 12:41:20: git status executed
+2023-04-06 12:41:20: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-07 03:58:28: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-07 04:01:27: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-07 04:01:57: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-07 04:02:15: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-08 11:28:07: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-08 11:28:18: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-09 11:41:07: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-09 11:41:16: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-09 11:47:42: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-12 09:11:03: git remote executed
+2023-04-12 09:11:03: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-12 09:11:24: merge conflict during pull
+2023-04-13 15:43:30: git remote executed
+2023-04-13 15:43:31: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 09:44:34: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-14 09:45:06: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-14 09:45:19: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-14 09:45:32: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-14 09:46:21: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-14 09:46:44: git remote executed
+2023-04-14 09:46:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 09:47:01: merge conflict during pull
+2023-04-14 09:53:11: user knows what is merge conflict: true
+2023-04-14 09:54:19: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-14 09:54:42: git remote executed
+2023-04-14 09:54:42: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 09:54:51: git remote executed
+2023-04-14 09:54:51: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 09:55:13: git remote executed
+2023-04-14 09:55:13: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 09:55:23: git remote executed
+2023-04-14 09:55:23: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 09:56:41: git remote executed
+2023-04-14 09:56:41: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 09:56:55: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 09:57:21: merge conflict during pull
+2023-04-14 09:57:25: user knows what is merge conflict: true
+2023-04-14 09:57:25: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 09:59:11: merge conflict not detected during pull
+2023-04-14 09:59:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 10:00:46: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-14 10:01:15: git remote executed
+2023-04-14 10:01:15: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 10:01:27: merge conflict not detected during pull
+2023-04-14 10:01:27: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 10:05:13: git remote executed
+2023-04-14 10:05:13: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_JSON_PARSING', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 10:06:33: merge conflict during pull
+2023-04-14 10:06:44: user knows what is merge conflict: true
+2023-04-14 10:06:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 12:04:13: merge conflict not detected during add
+2023-04-14 12:04:14: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 12:04:25: merge conflict not detected during commit
+2023-04-14 12:04:26: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 12:04:43: git push executed
+2023-04-14 12:04:51: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 12:04:58: git status executed
+2023-04-14 12:04:58: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 13:39:24: merge conflict not detected during add
+2023-04-14 13:39:24: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 13:39:33: merge conflict not detected during commit
+2023-04-14 13:39:33: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 13:39:44: git push executed
+2023-04-14 13:39:52: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 13:40:04: git status executed
+2023-04-14 13:40:04: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 16:15:33: git remote executed
+2023-04-14 16:15:33: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 16:16:00: merge conflict not detected during add
+2023-04-14 16:16:00: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 16:16:11: merge conflict not detected during commit
+2023-04-14 16:16:12: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 16:16:22: git push executed
+2023-04-14 16:16:29: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 16:16:34: git status executed
+2023-04-14 16:16:34: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 16:31:31: merge conflict not detected during add
+2023-04-14 16:31:31: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 16:31:36: merge conflict not detected during commit
+2023-04-14 16:31:37: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-14 16:31:45: git push executed
+2023-04-14 16:31:49: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 11:13:18: git remote executed
+2023-04-16 11:13:18: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 11:13:39: merge conflict during pull
+2023-04-16 11:13:45: user knows what is merge conflict: true
+2023-04-16 11:13:45: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 11:29:47: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-16 11:30:27: git remote executed
+2023-04-16 11:30:27: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 11:30:38: merge conflict not detected during pull
+2023-04-16 11:30:38: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 11:31:35: git remote executed
+2023-04-16 11:31:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 11:31:47: merge conflict not detected during pull
+2023-04-16 11:31:47: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 11:32:34: git remote executed
+2023-04-16 11:32:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 11:32:48: merge conflict during pull
+2023-04-16 11:32:53: user knows what is merge conflict: true
+2023-04-16 11:32:53: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 17:56:15: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-16 17:57:51: git remote executed
+2023-04-16 17:57:51: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 17:58:04: merge conflict during pull
+2023-04-16 17:58:06: user knows what is merge conflict: true
+2023-04-16 17:58:06: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 22:36:40: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-16 22:37:15: git remote executed
+2023-04-16 22:37:15: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 22:37:25: merge conflict during pull
+2023-04-16 22:37:40: user knows what is merge conflict: true
+2023-04-16 22:37:40: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 22:45:22: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-16 22:45:58: git remote executed
+2023-04-16 22:45:58: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 22:46:14: merge conflict not detected during pull
+2023-04-16 22:46:14: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 22:47:04: git remote executed
+2023-04-16 22:47:04: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 22:47:13: merge conflict not detected during pull
+2023-04-16 22:47:13: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 22:47:40: git remote executed
+2023-04-16 22:47:40: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-16 22:47:55: merge conflict during pull
+2023-04-16 22:47:57: user knows what is merge conflict: true
+2023-04-16 22:47:57: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-17 13:07:56: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-17 13:15:12: git remote executed
+2023-04-17 13:15:12: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REST_API', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-17 13:15:26: merge conflict during pull
+2023-04-17 13:15:31: user knows what is merge conflict: true
+2023-04-17 13:15:31: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-18 12:12:19: merge conflict not detected during add
+2023-04-18 12:12:20: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-18 12:12:33: merge conflict not detected during commit
+2023-04-18 12:12:34: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-18 12:12:47: git push executed
+2023-04-18 12:12:54: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-18 12:13:01: git status executed
+2023-04-18 12:13:01: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-19 14:26:52: merge conflict not detected during add
+2023-04-19 14:26:53: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-19 14:27:02: merge conflict not detected during commit
+2023-04-19 14:27:03: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-19 14:27:13: git push executed
+2023-04-19 14:27:22: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-19 14:28:44: git push executed
+2023-04-19 14:28:47: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-19 18:56:38: merge conflict not detected during add
+2023-04-19 18:56:38: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-19 18:56:54: merge conflict not detected during commit
+2023-04-19 18:56:55: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-19 18:57:07: git push executed
+2023-04-19 18:57:14: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-20 10:32:45: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-20 10:33:05: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-21 12:24:26: git remote executed
+2023-04-21 12:24:26: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_CALCULATIONS', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-21 12:24:43: merge conflict during pull
+2023-04-21 12:24:45: user knows what is merge conflict: true
+2023-04-21 12:24:45: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:07:57: merge conflict during add
+2023-04-22 16:08:01: user knows what is merge conflict: true
+2023-04-22 16:08:01: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:08:09: merge conflict during commit
+2023-04-22 16:08:34: user knows what is merge conflict: true
+2023-04-22 16:08:34: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:09:44: merge conflict not detected during add
+2023-04-22 16:09:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:09:47: merge conflict not detected during commit
+2023-04-22 16:09:48: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:09:57: git push executed
+2023-04-22 16:10:05: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:15:21: merge conflict not detected during add
+2023-04-22 16:15:22: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:15:26: merge conflict not detected during commit
+2023-04-22 16:15:26: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:15:30: git push executed
+2023-04-22 16:15:36: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:15:56: git push executed
+2023-04-22 16:15:59: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:18:16: merge conflict not detected during add
+2023-04-22 16:18:16: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:18:19: merge conflict not detected during commit
+2023-04-22 16:18:20: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:18:23: git push executed
+2023-04-22 16:18:27: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:19:51: merge conflict not detected during add
+2023-04-22 16:19:51: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:19:55: merge conflict not detected during add
+2023-04-22 16:19:55: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:19:58: merge conflict not detected during commit
+2023-04-22 16:19:58: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:20:05: git push executed
+2023-04-22 16:20:08: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:44:38: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-22 16:44:57: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-22 16:54:28: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-04-22 16:54:49: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'git@gitlab.crio.do:annual-return-app/annual-return-app.git'}
+2023-04-22 16:56:09: git remote executed
+2023-04-22 16:56:09: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:56:14: git remote executed
+2023-04-22 16:56:14: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 16:56:27: merge conflict during pull
+2023-04-22 16:56:31: user knows what is merge conflict: true
+2023-04-22 16:56:31: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_GRADLE', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 18:14:13: merge conflict during add
+2023-04-22 18:15:04: user knows what is merge conflict: false
+2023-04-22 18:15:04: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_GRADLE', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-22 18:15:08: merge conflict during add
+2023-04-27 11:02:40: merge conflict not detected during add
+2023-04-27 11:02:40: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_GRADLE', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-27 11:02:50: merge conflict not detected during commit
+2023-04-27 11:02:51: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_GRADLE', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-27 11:03:11: git push executed
+2023-04-27 11:03:18: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_GRADLE', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-27 11:16:15: git remote executed
+2023-04-27 11:16:16: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_GRADLE', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-27 11:16:30: merge conflict during pull
+2023-04-27 11:16:35: user knows what is merge conflict: true
+2023-04-27 11:16:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:19:14: merge conflict during add
+2023-04-28 09:19:23: user knows what is merge conflict: true
+2023-04-28 09:19:23: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:20:58: merge conflict during add
+2023-04-28 09:21:44: user knows what is merge conflict: false
+2023-04-28 09:21:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:21:48: merge conflict not detected during add
+2023-04-28 09:21:48: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:21:59: merge conflict not detected during commit
+2023-04-28 09:22:00: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:22:09: git push executed
+2023-04-28 09:22:52: merge conflict not detected during add
+2023-04-28 09:22:52: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:23:03: merge conflict not detected during commit
+2023-04-28 09:23:04: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:23:23: git push executed
+2023-04-28 09:25:39: merge conflict not detected during add
+2023-04-28 09:25:39: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:25:44: merge conflict not detected during commit
+2023-04-28 09:25:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:25:49: git push executed
+2023-04-28 09:25:56: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:30:57: merge conflict not detected during add
+2023-04-28 09:30:57: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:31:02: merge conflict not detected during commit
+2023-04-28 09:31:02: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:31:07: git push executed
+2023-04-28 09:31:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:34:40: merge conflict not detected during add
+2023-04-28 09:34:40: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:34:47: merge conflict not detected during commit
+2023-04-28 09:34:47: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:34:53: git push executed
+2023-04-28 09:35:02: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:37:22: merge conflict not detected during add
+2023-04-28 09:37:23: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:37:27: merge conflict not detected during commit
+2023-04-28 09:37:28: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:37:31: git push executed
+2023-04-28 09:37:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:45:01: merge conflict not detected during add
+2023-04-28 09:45:01: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:45:08: merge conflict not detected during commit
+2023-04-28 09:45:09: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:45:15: git push executed
+2023-04-28 09:45:22: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:53:58: merge conflict not detected during add
+2023-04-28 09:53:58: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:54:03: merge conflict not detected during commit
+2023-04-28 09:54:04: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 09:54:09: git push executed
+2023-04-28 09:54:15: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:03:22: merge conflict not detected during add
+2023-04-28 10:03:23: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:03:32: merge conflict not detected during commit
+2023-04-28 10:03:32: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:03:40: git push executed
+2023-04-28 10:03:46: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:08:58: merge conflict not detected during add
+2023-04-28 10:08:58: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:09:03: merge conflict not detected during commit
+2023-04-28 10:09:03: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:09:07: git push executed
+2023-04-28 10:09:12: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:44:46: merge conflict not detected during add
+2023-04-28 10:44:47: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:45:01: merge conflict not detected during commit
+2023-04-28 10:45:02: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:45:10: git push executed
+2023-04-28 10:45:17: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:49:09: merge conflict not detected during add
+2023-04-28 10:49:09: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:49:12: merge conflict not detected during commit
+2023-04-28 10:49:13: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 10:49:17: git push executed
+2023-04-28 10:49:20: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:05:43: merge conflict not detected during add
+2023-04-28 11:05:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:05:50: merge conflict not detected during commit
+2023-04-28 11:05:50: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:06:12: git push executed
+2023-04-28 11:06:18: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:08:27: merge conflict not detected during add
+2023-04-28 11:08:27: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:08:31: merge conflict not detected during commit
+2023-04-28 11:08:32: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:08:35: git push executed
+2023-04-28 11:08:39: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:14:53: merge conflict not detected during add
+2023-04-28 11:14:53: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:15:02: merge conflict not detected during commit
+2023-04-28 11:15:03: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:15:09: git push executed
+2023-04-28 11:15:15: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:16:45: merge conflict not detected during add
+2023-04-28 11:16:45: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:16:49: merge conflict not detected during commit
+2023-04-28 11:16:50: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:16:54: git push executed
+2023-04-28 11:16:57: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:46:14: merge conflict not detected during add
+2023-04-28 11:46:14: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:46:20: merge conflict not detected during commit
+2023-04-28 11:46:21: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:46:28: git push executed
+2023-04-28 11:46:34: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:47:35: merge conflict not detected during add
+2023-04-28 11:47:36: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:51:06: merge conflict not detected during add
+2023-04-28 11:51:06: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:51:16: merge conflict not detected during commit
+2023-04-28 11:51:17: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 11:51:27: git push executed
+2023-04-28 11:51:43: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 12:29:07: merge conflict not detected during add
+2023-04-28 12:29:07: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 12:29:18: merge conflict not detected during commit
+2023-04-28 12:29:19: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 12:29:32: git push executed
+2023-04-28 12:29:40: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 14:49:48: merge conflict not detected during add
+2023-04-28 14:49:49: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 14:49:59: merge conflict not detected during commit
+2023-04-28 14:50:00: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 14:50:10: git push executed
+2023-04-28 14:50:17: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 14:52:11: merge conflict not detected during add
+2023-04-28 14:52:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 14:52:15: merge conflict not detected during commit
+2023-04-28 14:52:15: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 14:52:20: git push executed
+2023-04-28 14:52:24: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 15:00:34: merge conflict not detected during add
+2023-04-28 15:00:34: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 15:00:42: merge conflict not detected during commit
+2023-04-28 15:00:43: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 15:00:50: git push executed
+2023-04-28 15:00:56: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 15:05:44: merge conflict not detected during add
+2023-04-28 15:05:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 15:05:54: merge conflict not detected during commit
+2023-04-28 15:05:55: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 15:06:02: git push executed
+2023-04-28 15:06:10: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 18:37:56: merge conflict not detected during add
+2023-04-28 18:37:56: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 18:38:11: merge conflict not detected during commit
+2023-04-28 18:38:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 18:38:26: git push executed
+2023-04-28 18:38:38: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 19:15:03: merge conflict not detected during add
+2023-04-28 19:15:04: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 19:15:21: merge conflict not detected during commit
+2023-04-28 19:15:22: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 19:15:34: git push executed
+2023-04-28 19:15:39: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 19:48:39: merge conflict not detected during add
+2023-04-28 19:48:39: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 19:48:48: merge conflict not detected during commit
+2023-04-28 19:48:49: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 19:48:56: git push executed
+2023-04-28 19:48:59: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 19:55:03: merge conflict not detected during add
+2023-04-28 19:55:03: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 19:55:06: merge conflict not detected during commit
+2023-04-28 19:55:06: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 19:55:09: git push executed
+2023-04-28 19:55:13: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 20:18:10: merge conflict not detected during add
+2023-04-28 20:18:10: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 20:18:12: merge conflict not detected during commit
+2023-04-28 20:18:13: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 20:18:16: git push executed
+2023-04-28 20:18:19: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 20:37:22: merge conflict not detected during add
+2023-04-28 20:37:22: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 20:37:27: merge conflict not detected during commit
+2023-04-28 20:37:27: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 20:37:33: git push executed
+2023-04-28 20:37:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 20:40:35: merge conflict not detected during add
+2023-04-28 20:40:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 20:40:37: git push executed
+2023-04-28 20:40:40: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 20:40:43: git push executed
+2023-04-28 20:40:46: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 20:40:48: merge conflict not detected during commit
+2023-04-28 20:40:49: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 20:40:51: git push executed
+2023-04-28 20:40:55: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 21:23:29: merge conflict not detected during add
+2023-04-28 21:23:29: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 21:23:32: merge conflict not detected during commit
+2023-04-28 21:23:33: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 21:23:41: git push executed
+2023-04-28 21:23:45: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 21:25:41: merge conflict not detected during add
+2023-04-28 21:25:41: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 21:25:43: git push executed
+2023-04-28 21:25:46: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 21:25:50: merge conflict not detected during commit
+2023-04-28 21:25:50: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 21:25:53: git push executed
+2023-04-28 21:25:56: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 21:52:07: merge conflict not detected during add
+2023-04-28 21:52:07: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 21:52:11: merge conflict not detected during commit
+2023-04-28 21:52:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 21:52:15: git push executed
+2023-04-28 21:52:19: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 23:36:49: merge conflict not detected during add
+2023-04-28 23:36:49: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 23:36:59: merge conflict not detected during commit
+2023-04-28 23:37:00: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 23:37:18: git push executed
+2023-04-28 23:37:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 23:43:05: merge conflict not detected during add
+2023-04-28 23:43:05: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 23:43:08: merge conflict not detected during commit
+2023-04-28 23:43:09: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 23:43:13: git push executed
+2023-04-28 23:43:17: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 23:59:51: merge conflict not detected during add
+2023-04-28 23:59:51: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-28 23:59:53: git push executed
+2023-04-28 23:59:56: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-29 00:00:01: git push executed
+2023-04-29 00:00:04: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-29 00:00:19: merge conflict not detected during add
+2023-04-29 00:00:19: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-29 00:00:22: merge conflict not detected during add
+2023-04-29 00:00:22: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-29 00:00:26: git push executed
+2023-04-29 00:00:28: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-29 00:00:38: merge conflict not detected during commit
+2023-04-29 00:00:39: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-29 00:00:42: git push executed
+2023-04-29 00:00:46: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-29 00:28:10: merge conflict not detected during add
+2023-04-29 00:28:10: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-29 00:28:12: merge conflict not detected during commit
+2023-04-29 00:28:13: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-04-29 00:28:16: git push executed
+2023-04-29 00:28:20: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_QMONEY_V2', 'module_id': 'ME_QMONEY_V2_MODULE_ADDITIONAL_REFACTOR', 'cohort_id': 'COHORT_ME_QMONEY_V2_ENROLL_1640183670016', 'remote': 'git@gitlab.crio.do:COHORT_ME_QMONEY_V2_ENROLL_1640183670016/amalatrasky15-ME_QMONEY_V2.git'}
+2023-05-09 10:08:10: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-05-09 10:08:39: git remote executed
+2023-05-09 10:08:39: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 10:08:50: merge conflict not detected during pull
+2023-05-09 10:08:50: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_ENTITIES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 10:32:11: merge conflict not detected during add
+2023-05-09 10:32:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_ENTITIES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 10:32:19: merge conflict not detected during commit
+2023-05-09 10:32:19: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_ENTITIES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 10:32:31: git push executed
+2023-05-09 10:32:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_ENTITIES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 11:38:02: merge conflict not detected during add
+2023-05-09 11:38:02: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_ENTITIES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 11:38:07: merge conflict not detected during commit
+2023-05-09 11:38:07: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_ENTITIES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 11:38:14: git push executed
+2023-05-09 11:38:17: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_ENTITIES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 11:38:26: git status executed
+2023-05-09 11:38:26: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_ENTITIES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 11:41:42: git remote executed
+2023-05-09 11:41:43: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_ENTITIES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 11:41:54: merge conflict during pull
+2023-05-09 11:41:57: user knows what is merge conflict: true
+2023-05-09 11:41:57: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:20:53: merge conflict not detected during add
+2023-05-09 19:20:54: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:21:02: merge conflict not detected during commit
+2023-05-09 19:21:03: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:21:11: git push executed
+2023-05-09 19:21:17: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:22:12: merge conflict not detected during add
+2023-05-09 19:22:12: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:22:22: merge conflict not detected during commit
+2023-05-09 19:22:22: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:22:26: git push executed
+2023-05-09 19:22:29: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:23:35: merge conflict not detected during add
+2023-05-09 19:23:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:23:43: merge conflict not detected during commit
+2023-05-09 19:23:43: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:23:49: git push executed
+2023-05-09 19:23:52: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:25:11: merge conflict not detected during add
+2023-05-09 19:25:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:25:15: merge conflict not detected during commit
+2023-05-09 19:25:15: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-09 19:25:20: git push executed
+2023-05-09 19:25:23: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-14 13:49:51: git remote executed
+2023-05-14 13:49:51: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_SERVICES', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-14 13:50:07: merge conflict during pull
+2023-05-14 13:50:10: user knows what is merge conflict: true
+2023-05-14 13:50:10: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-15 15:36:54: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-05-15 15:37:31: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-05-15 15:40:23: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-05-15 15:44:06: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-05-15 15:49:01: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-05-15 15:50:05: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-05-15 20:00:43: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-15 20:00:52: merge conflict not detected during add
+2023-05-15 20:00:52: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-15 20:01:04: merge conflict not detected during commit
+2023-05-15 20:01:05: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-15 20:01:16: git push executed
+2023-05-15 20:01:25: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-16 10:38:01: merge conflict not detected during add
+2023-05-16 10:38:02: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-16 10:38:10: merge conflict not detected during commit
+2023-05-16 10:38:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-16 10:38:54: git push executed
+2023-05-16 10:39:50: merge conflict not detected during add
+2023-05-16 10:39:50: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-16 10:39:51: git push executed
+2023-05-16 10:40:06: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-16 11:07:33: merge conflict not detected during add
+2023-05-16 11:07:33: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-16 11:07:42: merge conflict not detected during commit
+2023-05-16 11:07:43: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-16 11:08:07: git push executed
+2023-05-16 11:08:11: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-17 15:17:08: git remote executed
+2023-05-17 15:17:09: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_CONTROLLER', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-17 15:17:33: merge conflict during pull
+2023-05-17 15:17:36: user knows what is merge conflict: true
+2023-05-17 15:17:36: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:11:12: merge conflict during add
+2023-05-27 16:15:15: user knows what is merge conflict: false
+2023-05-27 16:15:15: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:15:20: merge conflict during add
+2023-05-27 16:15:39: user knows what is merge conflict: true
+2023-05-27 16:15:39: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:15:42: merge conflict during add
+2023-05-27 16:18:32: user knows what is merge conflict: false
+2023-05-27 16:18:32: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:18:35: merge conflict not detected during add
+2023-05-27 16:18:36: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:18:48: merge conflict not detected during commit
+2023-05-27 16:18:49: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:19:05: git push executed
+2023-05-27 16:19:14: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:19:48: merge conflict not detected during add
+2023-05-27 16:19:49: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:19:51: merge conflict not detected during commit
+2023-05-27 16:19:52: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:19:55: git push executed
+2023-05-27 16:19:58: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:26:58: merge conflict not detected during add
+2023-05-27 16:26:58: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:27:12: merge conflict not detected during commit
+2023-05-27 16:27:12: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:27:17: git push executed
+2023-05-27 16:27:21: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:31:30: merge conflict not detected during add
+2023-05-27 16:31:31: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:31:34: merge conflict not detected during commit
+2023-05-27 16:31:35: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-05-27 16:31:38: git push executed
+2023-05-27 16:31:44: User Details: {'user_id': 'amalatrasky15', 'me_id': 'ME_OBJECT_MODELING_V2', 'module_id': 'ME_OBJECT_MODELING_V2_MODULE_TAKEHOME', 'cohort_id': 'COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871', 'remote': 'git@gitlab.crio.do:COHORT_ME_OBJECT_MODELING_V2_ENROLL_1640183789871/amalatrasky15-ME_OBJECT_MODELING_V2.git'}
+2023-06-14 07:22:02: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-06-14 07:22:13: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-06-14 07:22:27: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-06-14 07:22:48: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-06-14 08:18:01: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2023-06-14 08:18:16: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
